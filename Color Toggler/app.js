@@ -1,4 +1,4 @@
-let gameSeq = [];
+const gameSeq = [];
 let userSeq = [];
 let btns = ["yellow", "grey", "purple", "red"];
 
